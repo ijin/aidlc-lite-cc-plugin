@@ -1,0 +1,40 @@
+{
+  "name": "aidlc-lite-cc-plugin",
+  "owner": {
+    "name": "ijin"
+  },
+  "metadata": {
+    "description": "AI-DLC Lite - a lightweight, speed-optimized version of the AI-Driven Development Lifecycle methodology"
+  },
+  "plugins": [
+    {
+      "name": "aidlc-lite",
+      "source": "./",
+      "description": "AI-DLC Lite - a lightweight, speed-optimized version of the AI-Driven Development Lifecycle methodology",
+      "author": {
+        "name": "ijin"
+      },
+      "homepage": "https://github.com/ijin/aidlc-lite-cc-plugin",
+      "repository": "https://github.com/ijin/aidlc-lite-cc-plugin",
+      "license": "MIT-0",
+      "keywords": [
+        "aidlc",
+        "aidlc-lite",
+        "ai-driven",
+        "development-lifecycle",
+        "lightweight",
+        "claude-code",
+        "plugin"
+      ],
+      "category": "methodology",
+      "tags": [
+        "aidlc",
+        "aidlc-lite",
+        "ai-driven",
+        "workflow",
+        "structured-development"
+      ],
+      "strict": true
+    }
+  ]
+}
